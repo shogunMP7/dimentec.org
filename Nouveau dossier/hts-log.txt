@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 04 Jun 2020 07:00:51 at http://detheme.com/templates/etan/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "fr, en, *" http://detheme.com/templates/etan/ -O1 "C:\Mes Sites Web\dimentec" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+07:09:42	Error: 	"Not Found" (404) at link detheme.com/templates/etan/%22videos/wavy-poster-00001.jpg (from detheme.com/templates/etan/)
+07:09:42	Warning: 	Retry after error -4 (Incorrect length (1074092 Bytes, 6055186 expected)) at link detheme.com/templates/etan/videos/wavy-transcode.mp4 (from detheme.com/templates/etan/)
+07:11:50	Error: 	"Not Found" (404) at link detheme.com/templates/etan/images/example-bg.png (from detheme.com/templates/etan/css/etan.webflow.css)
+07:14:32	Error: 	"Not Found" (404) at link detheme.com/templates/etan/library/icons/favicon.png (from detheme.com/templates/etan/library/grid.html)
+07:14:32	Error: 	"Not Found" (404) at link detheme.com/templates/etan/library/icons/webclip.png (from detheme.com/templates/etan/library/grid.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 minutes 42 seconds : 139 links scanned, 133 files written (22814710 bytes overall) [20353089 bytes received at 24760 bytes/sec], 3749270 bytes transferred using HTTP compression in 73 files, ratio 28%, 3.1 requests per connection
+(4 errors, 1 warnings, 0 messages)
