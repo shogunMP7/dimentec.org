@@ -4719,6 +4719,7 @@ figcaption {
 }
 
 @media (max-width: 767px) {
+
   .container {
     display: -webkit-box;
     display: -webkit-flex;
@@ -4828,6 +4829,11 @@ figcaption {
 }
 
 @media (max-width: 479px) {
+
+  .w-slide h1{
+    font-size:2.5rem;
+  }
+
   .col.lg-6.xs-12 {
     -webkit-box-flex: 0;
     -webkit-flex: 0 100%;
